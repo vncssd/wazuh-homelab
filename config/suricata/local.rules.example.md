@@ -6,7 +6,7 @@
 ###  1000100–1000199  → monitoramento de rede
 ###   1000200–1000299  → detecção de ataques
 ###
- Após qualquer alteração: sudo systemctl restart suricata
+ Após qualquer alteração: sudo systemctl restart suricata <br>
  Validar sintaxe:        sudo suricata -T -c /etc/suricata/suricata.yaml -v
 
 # ---------------------------------------------------------------------------
