@@ -39,8 +39,8 @@ wazuh-homelab/
 │   ├── 01-hardware.md              # Especificações e decisões de SO
 │   ├── 02-instalacao-wazuh.md      # Instalação do Wazuh (all-in-one)
 │   ├── 03-suricata-config.md       # Instalação e configuração do Suricata
-│   ├── 04-regras-customizadas.md   # Regras personalizadas do Suricata
-│   └── 05-testes-alertas.md        # Testes realizados e alertas gerados
+│   └── 04-regras-customizadas.md   # Regras personalizadas do Suricata
+│   
 ├── configs/
 │   ├── suricata/
 │   │   └── local.rules             # Regras customizadas do Suricata
