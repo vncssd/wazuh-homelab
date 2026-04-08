@@ -43,7 +43,7 @@ wazuh-homelab/
 │   
 ├── configs/
 │   ├── suricata/
-│   │   └── local.rules             # Regras customizadas do Suricata
+│   │   └── local.rules.example             # Regras customizadas do Suricata
 │   └── wazuh/
 │       └── ossec-snippets.conf     # Trechos relevantes do ossec.conf
 └── screenshots/
@@ -59,7 +59,6 @@ Siga os documentos na ordem:
 2. [Instalação do Wazuh](docs/02-instalacao-wazuh.md)
 3. [Configuração do Suricata](docs/03-suricata-config.md)
 4. [Regras Customizadas](docs/04-regras-customizadas.md)
-5. [Testes e Alertas](docs/05-testes-alertas.md)
 
 ---
 
