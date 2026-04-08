@@ -47,7 +47,6 @@ wazuh-homelab/
 │   └── wazuh/
 │       └── ossec-snippets.conf     # Trechos relevantes do ossec.conf
 └── screenshots/
-    └── (prints do dashboard aqui)
 ```
 
 ---
@@ -73,11 +72,8 @@ Siga os documentos na ordem:
 | Suricata | 7.x | IDS — detecção de intrusão por rede |
 
 ---
-Feito por Vinícius Silva
-
----
 
 ## 👤 Autor
 
-**[Seu Nome]**
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+**Vinícius Silva dos Santos**
+[LinkedIn](https://linkedin.com/in/vncssd) · [GitHub](https://github.com/vncssd)
